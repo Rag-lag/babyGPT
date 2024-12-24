@@ -61,7 +61,7 @@ The training process includes:
 
 To train the model and generate text:
 
-1. Ensure the `input.txt` file containing Shakespeare's text is in the same directory
+1. Ensure the `input.txt` file containing Shakespeare's text is in the dataset directory
 2. Run the script:
 
 ```bash
